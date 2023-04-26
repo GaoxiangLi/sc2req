@@ -8,3 +8,5 @@ The checkpoint file pf sc2req can be access via this link: https://storage.googl
 and https://storage.googleapis.com/gpt3_demo/GPT3_XL/model.ckpt-364000.data-00000-of-00002
 
 Please follow the instruction in the GPT-NEO demo.
+
+In preparation of future work, the code is currently being refactored and will be updated.
