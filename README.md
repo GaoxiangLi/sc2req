@@ -1,5 +1,6 @@
 # sc2req
-source code of "sc2req"
+
+Source code of "sc2req"
 
 Here is a demo of GPT-NEO with colab: https://colab.research.google.com/github/EleutherAI/GPTNeo/blob/master/GPTNeo_example_notebook.ipynb
 
